@@ -1,0 +1,1222 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "3.8.4",
+    "uniqCompNum": 32,
+    "versionPublish": "3.9.0",
+    "name": "Nettressurser",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#b8312f",
+        "secondaryColor": "#2969b0",
+        "successColor": "#41a85f",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      }
+    },
+    "publishType": "github",
+    "publishPath": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": "",
+    "path": "file:///F:/SKOLE/nettressursoppgaver",
+    "screenshot": "screenshot.png",
+    "cookiesAlert": "",
+    "google-analytics": ""
+  },
+  "pages": {
+    "pavei.html": {
+      "settings": {
+        "title": "På Vei | Fasit til lytteoppgavene",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#8f2625"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#ac2e2c!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#b8312f"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#b8312f!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#b8312f",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#efefef",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/alfaskolen-logo-349x128-0-349x128-52-349x128-50-349x128-50.jpg",
+              "height": 128,
+              "alt": "Alfaskolen",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "facebook",
+              "family": "et-line",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">OPPGAVESAMLING</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.klartale.no/\" aria-expanded=\"false\" target=\"_blank\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.klartale.no/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"etl-icon icon-newspaper mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/alfaskolen/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/Alfaskolen.Oslo/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.alfaskolen.no/en/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"etl-icon icon-global mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-magnifying-glass mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 239, 239);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://clu.uni.no/test/bildetema-html5/bildetema.html?version=norwegian&amp;language_selector=simple&amp;languages=eng,nno,nob&amp;language=nob&amp;page=index&amp;title=Bildetema%20-%20bokm%C3%A5l-nynorsk\" target=\"_blank\">BILDEORDBOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://decentius.hit.uib.no/lexin.html?ui-lang=nbo\" target=\"_blank\">NORSK ORDBOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ordbok.uib.no/perl/ordbok.cgi?OPP=+&amp;ant_bokmaal=5&amp;ant_nynorsk=5&amp;bokmaal=+&amp;ordbok=bokmaal\" target=\"_blank\">BOKMÅLSORDBOK</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://www.klartale.no/\" aria-expanded=\"true\" target=\"_blank\" data-toggle=\"dropdown-submenu\">KURSBØKER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://pavei-oppgaver.cappelendamm.no/\" target=\"_blank\">PÅ VEI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://steinpastein-oppgaver.cappelendamm.no/\" target=\"_blank\">STEIN PÅ STEIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://herpaberget-oppgaver.cappelendamm.no/\" target=\"_blank\">HER PÅ BERGET</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://norsklab.cappelendamm.no/\" target=\"_blank\">NORSKLAB</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/-8230141-2000x1500-38.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H2": {
+              "text-align": "center"
+            },
+            "P": {
+              "font-size": "20px",
+              "color": "#efefef",
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "10",
+            "slides": [
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "VELG DITT NIVÅ",
+                "showText": true,
+                "text": "Bla til venstre eller høyre for å se nettoppgaver på ditt nivå. Du finner ressurser på nivå A1 og A2",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#slider-4\" data-toolbar=\"-mbrBtnMove\">A1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#slider-4\" data-toolbar=\"-mbrBtnMove\">A2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">B1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#slider-4\" data-toolbar=\"-mbrBtnMove\">B2</a> "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/9200538-2000x1499-80-2000x1499-6.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Nivå A1&nbsp;",
+                "showText": true,
+                "text": "Her lærer du nye ord, og samfunnskunnskap.<br>Nettstedet \"Norwegian NoW\" er tilgjengelig på spansk, engelsk og polsk.&nbsp;<br>\"Praktisk norsk\" og \"Tekstlab\" vil hjelpe deg til å bli bedre i grammatikk.",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://herborvi1.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">HER BOR VI A1</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://norskna.portfolio.no/read_container/2bf5ff7c-1791-4540-8e99-5a0ff118f023\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NORSK NÅ! A1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://nyinorge.portfolio.no/read_container/69097277-b2a4-45fe-b2ee-8accbb36017a\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NY I NORGE A1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://praktisknorsk1-versjon2.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRAKTISK NORSK A1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://pavei-oppgaver.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PÅ VEI</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://www.ntnu.edu/learnnow/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NORWEGIAN NOW</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://tekstlab.uio.no/igin/?niva=1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEKSTLAB 1</a>   "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/9190486-2000x1500-57-2000x1500-62.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Nivå A2",
+                "showText": true,
+                "text": "<p><br><span style=\"line-height: 1.5;\">Oppgavene fra \"Norsk nå\", \"Ny i Norge\" og \"Her bor vi\" hjelper deg til å lære nye ord og uttrykk.</span><br><span style=\"line-height: 1.5;\">\"Praktisk norsk\", \"Norsk på 1-2-3\" og \"Tekstlab\" lærer deg grammatikk.</span></p><p><span style=\"line-height: 1.5;\">Nettstedet \"Norwegian NoW\"&nbsp;</span><span style=\"line-height: 1.5;\">er tilgjengelig på spansk, engelsk og polsk. Nivået på dette nettstedet passer for A1 og A2.</span></p>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://praktisknorsk2-versjon2.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRAKTISK NORSK A2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://www.ntnu.edu/learnnow/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NORWEGIAN NOW</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://norsk123-2010.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NORSK PÅ 1-2-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://nyinorge.portfolio.no/read_container/da1c9554-b3ab-4532-9734-0db291518c9e\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NY I NORGE A2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://herborvi2.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">HER BOR VI A2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://tekstlab.uio.no/igin/?niva=2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEKSTLAB 2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://norskna.portfolio.no/read_container/0eed53ab-d830-48ce-b55c-b60ad0046005\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NORSK NÅ! A2</a>  "
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-d",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px"
+            }
+          },
+          "_anchor": "header1-r",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "file:///C:/Users/Tamas/AppData/Local/Mobirise.com/Mobirise/projectData/c268030-2000x1500-90-2000x1500-92.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<span style=\"line-height: 1.1;\">LYTTEOPPGAVER I ARBEIDSBOK</span><br>",
+          "text": "Her finner du lydfilene til lytteoppgavene i arbeidsboken.<br>Lykke til!<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"audio/pv/pavei_kap01.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"audio/pv/pavei_kap02.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"audio/pv/pavei_kap03.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"audio/pv/pavei_kap04.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"audio/pv/pavei_kap05.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"audio/pv/pavei_kap06.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"audio/pv/pavei_kap07.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"audio/pv/pavei_kap08.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"audio/pv/pavei_kap09.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">9</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"audio/pv/pavei_kap10.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">10</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"audio/pv/pavei_kap11.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"audio/pv/pavei_kap12.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"audio/pv/pavei_kap13.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">13</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"audio/pv/pavei_kap14.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">14</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"audio/pv/pavei_kap15.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">15</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"audio/pv/pavei_kap16.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">16</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px"
+            }
+          },
+          "_anchor": "header1-4",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/c268030-2000x1500-90-2000x1500-92.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "FASIT TIL<br>LYTTEOPPGAVER I ARBEIDSBOK",
+          "text": "Her finner du fasit til lytteoppgavene i arbeidsboken.<br>Lykke til!<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"assets/downloads/pavei-fasit/kapittel01.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"assets/downloads/pavei-fasit/kapittel02.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"assets/downloads/pavei-fasit/kapittel03.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"assets/downloads/pavei-fasit/kapittel04.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"assets/downloads/pavei-fasit/kapittel05.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"assets/downloads/pavei-fasit/kapittel06.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"assets/downloads/pavei-fasit/kapittel07.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"assets/downloads/pavei-fasit/kapittel08.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"assets/downloads/pavei-fasit/kapittel09.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">9</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"assets/downloads/pavei-fasit/kapittel10.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">10</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"assets/downloads/pavei-fasit/kapittel11.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"assets/downloads/pavei-fasit/kapittel12.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"assets/downloads/pavei-fasit/kapittel13.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">13</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"assets/downloads/pavei-fasit/kapittel14.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">14</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"assets/downloads/pavei-fasit/kapittel15.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">15</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"assets/downloads/pavei-fasit/kapittel16.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">16</a> "
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Alfaskolens Samleside for nettressurser",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#8f2625"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#ac2e2c!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#b8312f"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#b8312f!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#b8312f",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#efefef",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/alfaskolen-logo-349x128-0-349x128-52-349x128-50.jpg",
+              "height": 128,
+              "alt": "Alfaskolen",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "facebook",
+              "family": "et-line",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">OPPGAVESAMLING</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.klartale.no/\" aria-expanded=\"false\" target=\"_blank\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.klartale.no/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"etl-icon icon-newspaper mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/alfaskolen/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/Alfaskolen.Oslo/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.alfaskolen.no/en/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"etl-icon icon-global mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-magnifying-glass mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 239, 239);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://clu.uni.no/test/bildetema-html5/bildetema.html?version=norwegian&amp;language_selector=simple&amp;languages=eng,nno,nob&amp;language=nob&amp;page=index&amp;title=Bildetema%20-%20bokm%C3%A5l-nynorsk\" target=\"_blank\">BILDEORDBOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://decentius.hit.uib.no/lexin.html?ui-lang=nbo\" target=\"_blank\">NORSK ORDBOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ordbok.uib.no/perl/ordbok.cgi?OPP=+&amp;ant_bokmaal=5&amp;ant_nynorsk=5&amp;bokmaal=+&amp;ordbok=bokmaal\" target=\"_blank\">BOKMÅLSORDBOK</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://www.klartale.no/\" aria-expanded=\"true\" target=\"_blank\" data-toggle=\"dropdown-submenu\">KURSBØKER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://pavei-oppgaver.cappelendamm.no/\" target=\"_blank\">PÅ VEI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://steinpastein-oppgaver.cappelendamm.no/\" target=\"_blank\">STEIN PÅ STEIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://herpaberget-oppgaver.cappelendamm.no/\" target=\"_blank\">HER PÅ BERGET</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://norsklab.cappelendamm.no/\" target=\"_blank\">NORSKLAB</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/9190486-2000x1500-57-2000x1500-34.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "HEI!",
+          "text": "Her finner du noen ressursoppgaver som vi har laget til deg.<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Du finner andre nettressurser når du ruller nedover.</span><br><br>Lykke til!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#b8312f",
+              "text-align": "center"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/-8230120-2000x1500-50.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "KURSMATERIALET",
+          "text": "Her finner du oppgaver til bøkene du bruker på kurset ditt.<br>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"pavei.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">På vei</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"steinpastein.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Stein på stein</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"herpaberget.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Her på berget</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H2": {
+              "text-align": "center"
+            },
+            "P": {
+              "font-size": "20px",
+              "color": "#efefef",
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "10",
+            "slides": [
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "VELG DITT NIVÅ",
+                "showText": true,
+                "text": "Bla til venstre eller høyre for å se nettoppgaver på ditt nivå. Du finner ressurser på nivå A1, A2, B1 og B2.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#slider-4\" data-toolbar=\"-mbrBtnMove\">A1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#slider-4\" data-toolbar=\"-mbrBtnMove\">A2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">B1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#slider-4\" data-toolbar=\"-mbrBtnMove\">B2</a> "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/9200538-2000x1499-80.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Nivå A1&nbsp;",
+                "showText": true,
+                "text": "Her lærer du nye ord, og samfunnskunnskap.<br>Nettstedet \"Norwegian NoW\" er tilgjengelig på spansk, engelsk og polsk.&nbsp;<br>\"Praktisk norsk\" og \"Tekstlab\" vil hjelpe deg til å bli bedre i grammatikk.",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://herborvi1.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">HER BOR VI A1</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://norskna.portfolio.no/read_container/2bf5ff7c-1791-4540-8e99-5a0ff118f023\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NORSK NÅ! A1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://nyinorge.portfolio.no/read_container/69097277-b2a4-45fe-b2ee-8accbb36017a\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NY I NORGE A1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://praktisknorsk1-versjon2.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRAKTISK NORSK A1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://pavei-oppgaver.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PÅ VEI</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://www.ntnu.edu/learnnow/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NORWEGIAN NOW</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://tekstlab.uio.no/igin/?niva=1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEKSTLAB 1</a>   "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/9190486-2000x1500-57-2000x1500-620.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Nivå A2",
+                "showText": true,
+                "text": "<p><br><span style=\"line-height: 1.5;\">Oppgavene fra \"Norsk nå\", \"Ny i Norge\" og \"Her bor vi\" hjelper deg til å lære nye ord og uttrykk.</span><br><span style=\"line-height: 1.5;\">\"Praktisk norsk\", \"Norsk på 1-2-3\" og \"Tekstlab\" lærer deg grammatikk.</span></p><p><span style=\"line-height: 1.5;\">Nettstedet \"Norwegian NoW\"&nbsp;</span><span style=\"line-height: 1.5;\">er tilgjengelig på spansk, engelsk og polsk. Nivået på dette nettstedet passer for A1 og A2.</span></p>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://praktisknorsk2-versjon2.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRAKTISK NORSK A2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://www.ntnu.edu/learnnow/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NORWEGIAN NOW</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://norsk123-2010.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NORSK PÅ 1-2-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://nyinorge.portfolio.no/read_container/da1c9554-b3ab-4532-9734-0db291518c9e\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NY I NORGE A2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://herborvi2.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">HER BOR VI A2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://tekstlab.uio.no/igin/?niva=2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEKSTLAB 2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://norskna.portfolio.no/read_container/0eed53ab-d830-48ce-b55c-b60ad0046005\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NORSK NÅ! A2</a>  "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/8230120-2000x1500-15-2000x1500-30.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Nivå B1",
+                "showText": true,
+                "text": "Du kan repetere norsk grammatikk ved hjelp av \"Tekstlab 3\".<br>Hvis dette ble for lett, så prøv \"Norsk Grammatikk\".<br>Du kan også klikke på \"Jobb i sikte\". Der lærer du nye yrkesrelaterte&nbsp;ord.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://jobbisikte-hefter.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOBB I SIKTE<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://tekstlab.uio.no/igin/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;TEKSTLAB 3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://norskgrammatikk.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NORSK GRAMMATIKK</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/7169040-2000x1500-90-2000x1500-78.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Nivå B2",
+                "showText": true,
+                "text": "På dette nivået kan du jobbe med språk på arbeidsplassen i \"Jobb i sikte\".<br>Eller du kan lære mer om \"Norges historie\".<br>Hvis du trenger å forbedre grammatikkunnskapene dine, så prøv \"Klart det!\"",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://norgeshistorie.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NORGES HISTORIE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://jobbisikte-hovedbok.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOBB I SIKTE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://klartdet.portfolio.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KLART DET!</a> "
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-4",
+          "articleLayout": false
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_anchor": "features6-3",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "et-line",
+              "active": true,
+              "link": "http://ordbok.uib.no/perl/ordbok.cgi?OPP=+&ant_bokmaal=5&ant_nynorsk=5&bokmaal=+&ordbok=begge",
+              "size": 0,
+              "newWindow": true,
+              "color": "#b8312f"
+            }
+          },
+          "title1": "Bokmål ordbok",
+          "subtitle1": "Utviklet av Universitetet i Oslo og Universitetet i Bergen",
+          "caption1": "For deg som vil finne forklaringer på norsk!",
+          "button1": "<a data-app-btn=\"true\" href=\"http://ordbok.uib.no/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Norsk Ordbok</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "et-line",
+              "active": true,
+              "link": "http://lexin.udir.no/",
+              "size": 0,
+              "color": "#b8312f",
+              "newWindow": true
+            }
+          },
+          "title2": "Lexin ordbok",
+          "subtitle2": "Arabisk, dari, kurdisk, persisk, polsk, russisk, somali, tagalog, tamil, thai, tigrinja, tyrkisk, urdu, vietnamesisk",
+          "caption2": "For deg som trenger forklaringer på ditt eget språk!",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SØK</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "pictures",
+              "family": "et-line",
+              "active": true,
+              "link": "http://clu.uni.no/test/bildetema-html5/bildetema.html?version=norwegian&language_selector=simple&languages=eng,nno,nob&language=nob&page=index&title=Bildetema%20-%20bokm%C3%A5l-nynorsk",
+              "size": 0,
+              "color": "#b8312f",
+              "newWindow": true
+            }
+          },
+          "title3": "Bildeordbok",
+          "subtitle3": "Det er 31 ulike temaer (kropp, skole, mat, kjøkken, datamaskiner, bank, butikk, sykdom, post...)",
+          "caption3": "For deg som vil lære norsk ved hjelp av tegninger og bilder. Du kan også høre hvordan ord uttales.&nbsp;",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "newspaper",
+              "family": "et-line",
+              "active": true,
+              "link": "http://www.klartale.no/",
+              "size": 0,
+              "color": "#b8312f",
+              "newWindow": true
+            }
+          },
+          "title4": "Klar tale",
+          "subtitle4": "Norge, Verden, Kultur, Sport, Temaintervjuer, Kronikker og Bildegallerier på nettet.",
+          "caption4": "Vil du lese nyheter på norsk? Besøk klartale.no! Der kan du både lese og høre nyheter fra Norge og resten av verden",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/-8230141-2000x1500-38.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        }
+      ]
+    },
+    "steinpastein.html": {
+      "settings": {
+        "title": "Stein på Stein | Fasit til lytteoppgavene",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-family": "'Merriweather', serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#8f2625"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#ac2e2c!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#b8312f"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#b8312f!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-5",
+          "_params": {
+            "bgColor": "#b8312f",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Merriweather",
+              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "css": "'Merriweather', serif"
+            },
+            "fontColor": "#efefef",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/alfaskolen-logo-349x128-0-349x128-52-349x128-50-349x128-85.jpg",
+              "height": 128,
+              "alt": "Alfaskolen",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "facebook",
+              "family": "et-line",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">OPPGAVESAMLING</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.klartale.no/\" aria-expanded=\"false\" target=\"_blank\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.klartale.no/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"etl-icon icon-newspaper mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/alfaskolen/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/Alfaskolen.Oslo/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.alfaskolen.no/en/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"etl-icon icon-global mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-magnifying-glass mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 239, 239);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://clu.uni.no/test/bildetema-html5/bildetema.html?version=norwegian&amp;language_selector=simple&amp;languages=eng,nno,nob&amp;language=nob&amp;page=index&amp;title=Bildetema%20-%20bokm%C3%A5l-nynorsk\" target=\"_blank\">BILDEORDBOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://decentius.hit.uib.no/lexin.html?ui-lang=nbo\" target=\"_blank\">NORSK ORDBOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ordbok.uib.no/perl/ordbok.cgi?OPP=+&amp;ant_bokmaal=5&amp;ant_nynorsk=5&amp;bokmaal=+&amp;ordbok=bokmaal\" target=\"_blank\">BOKMÅLSORDBOK</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://www.klartale.no/\" aria-expanded=\"true\" target=\"_blank\" data-toggle=\"dropdown-submenu\">KURSBØKER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://pavei-oppgaver.cappelendamm.no/\" target=\"_blank\">PÅ VEI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://steinpastein-oppgaver.cappelendamm.no/\" target=\"_blank\">STEIN PÅ STEIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://herpaberget-oppgaver.cappelendamm.no/\" target=\"_blank\">HER PÅ BERGET</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://norsklab.cappelendamm.no/\" target=\"_blank\">NORSKLAB</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-6",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/-8230141-2000x1500-38.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fac51c"
+            },
+            ".mbr-section-lead": {
+              "color": "#fac51c"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-g",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/8230120-2000x1500-15-1400x1050-99-2000x1500-18.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Nivå B1",
+          "text": "Du kan repetere norsk grammatikk ved hjelp av \"Tekstlab 3\".<br>Hvis dette ble for lett, så prøv \"Norsk Grammatikk\".<br>Du kan også klikke på \"Jobb i sikte\". Der lærer du nye yrkesrelaterte ord.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://jobbisikte-hefter.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOBB I SIKTE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://tekstlab.uio.no/igin/?niva=3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"> TEKSTLAB 3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://norskgrammatikk.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"> NORSK GRAMMATIKK</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "msg-box5-u",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/c268030-2000x1500-90-2000x1500-74.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/9788202433048-1400x1050-25.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "linkInNewWindow": false,
+              "name": "info",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "STEIN PÅ STEIN<br>LYTTEØVELSE",
+          "text": "Her finner du lytteoppgavene til kapittlene i arbeidsbok.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">1</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">2</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">3</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">4</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">5</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">6</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">7</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">8</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">11</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">12</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">13</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">14</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box5-v",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/c268030-2000x1500-90-2000x1500-74-2000x1500-74.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/8230120-2000x1500-15-1400x1050-99.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "STEIN PÅ STEIN FASIT TIL LYTTEOPPGAVENE",
+          "text": "Her finner du lytteoppgavene til kapittlene i arbeidsbok.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">1</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">2</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">3</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">4</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">5</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">6</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">7</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">8</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">11</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">12</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">13</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">14</a> "
+        }
+      ]
+    },
+    "herpaberget.html": {
+      "settings": {
+        "title": "Her På Berget | Fasit til lytteoppgavene",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-family": "'Merriweather', serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#8f2625"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#ac2e2c!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#b8312f"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#b8312f!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-8",
+          "_params": {
+            "bgColor": "#b8312f",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Merriweather",
+              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "css": "'Merriweather', serif"
+            },
+            "fontColor": "#efefef",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/alfaskolen-logo-349x128-0-349x128-52-349x128-50-349x128-5.jpg",
+              "height": 128,
+              "alt": "Alfaskolen",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "facebook",
+              "family": "et-line",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">OPPGAVESAMLING</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.klartale.no/\" aria-expanded=\"false\" target=\"_blank\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.klartale.no/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"etl-icon icon-newspaper mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/alfaskolen/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/Alfaskolen.Oslo/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.alfaskolen.no/en/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"etl-icon icon-global mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-magnifying-glass mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 239, 239);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://clu.uni.no/test/bildetema-html5/bildetema.html?version=norwegian&amp;language_selector=simple&amp;languages=eng,nno,nob&amp;language=nob&amp;page=index&amp;title=Bildetema%20-%20bokm%C3%A5l-nynorsk\" target=\"_blank\">BILDEORDBOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://decentius.hit.uib.no/lexin.html?ui-lang=nbo\" target=\"_blank\">NORSK ORDBOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ordbok.uib.no/perl/ordbok.cgi?OPP=+&amp;ant_bokmaal=5&amp;ant_nynorsk=5&amp;bokmaal=+&amp;ordbok=bokmaal\" target=\"_blank\">BOKMÅLSORDBOK</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://www.klartale.no/\" aria-expanded=\"true\" target=\"_blank\" data-toggle=\"dropdown-submenu\">KURSBØKER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://pavei-oppgaver.cappelendamm.no/\" target=\"_blank\">PÅ VEI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://steinpastein-oppgaver.cappelendamm.no/\" target=\"_blank\">STEIN PÅ STEIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://herpaberget-oppgaver.cappelendamm.no/\" target=\"_blank\">HER PÅ BERGET</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://norsklab.cappelendamm.no/\" target=\"_blank\">NORSKLAB</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-9",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/-8230141-2000x1500-38.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#41a85f"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-i",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/7169040-2000x1500-90-2000x1500-78-2000x1500-40.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Nivå B2",
+          "text": "På dette nivået kan du jobbe med språk på arbeidsplassen i \"Jobb i sikte\".<br>Eller du kan lære mer om \"Norges historie\".<br>Hvis du trenger å forbedre grammatikkunnskapene dine, så prøv \"Klart det!\"<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://norgeshistorie.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NORGES HISTORIE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://klartdet.portfolio.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KLART DET!</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://jobbisikte-hovedbok.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOBB I SIKTE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px",
+              "color": "#41a85f"
+            },
+            ".mbr-section-lead": {
+              "color": "#41a85f"
+            }
+          },
+          "_anchor": "header1-a",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/7169040-2000x1500-90-2000x1500-78-2000x1500-23.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "HER PÅ BERGET FASIT TIL<br>LYTTEOPPGAVER",
+          "text": "Her finner du fasit til lytteoppgavene i arbeidsboken.<br>Lykke til!<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"assets/downloads/hpb-fasit/kap01.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"assets/downloads/hpb-fasit/kap02.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"assets/downloads/pavei-fasit/kapittel03.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"assets/downloads/hpb-fasit/kap04.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"assets/downloads/hpb-fasit/kap05.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"assets/downloads/hpb-fasit/kap06.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"assets/downloads/hpb-fasit/kap07.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"assets/downloads/hpb-fasit/kap08.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"assets/downloads/hpb-fasit/kap09.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">9</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"assets/downloads/hpb-fasit/kap10.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">10</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"assets/downloads/hpb-fasit/kap11.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"assets/downloads/hpb-fasit/kap12.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"assets/downloads/hpb-fasit/kap13.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">13</a>    "
+        }
+      ]
+    }
+  }
+}
