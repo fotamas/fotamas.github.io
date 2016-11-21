@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "steinpastein.html",
     "versionFirst": "3.8.4",
     "uniqCompNum": 32,
     "versionPublish": "3.9.0",
@@ -892,7 +892,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Nivå B1",
+          "title": "<br><br><br>Nivå B1",
           "text": "Du kan repetere norsk grammatikk ved hjelp av \"Tekstlab 3\".<br>Hvis dette ble for lett, så prøv \"Norsk Grammatikk\".<br>Du kan også klikke på \"Jobb i sikte\". Der lærer du nye yrkesrelaterte ord.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://jobbisikte-hefter.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOBB I SIKTE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://tekstlab.uio.no/igin/?niva=3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"> TEKSTLAB 3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://norskgrammatikk.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"> NORSK GRAMMATIKK</a>"
         },
@@ -934,7 +934,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/9788202433048-1400x1050-25.jpg",
+              "src": "@PROJECT_PATH@/assets/images/9788202433048-1400x1050-25-1400x1050-17.jpg",
               "link": "",
               "alt": "",
               "title": "",
