@@ -494,11 +494,21 @@ h6,
   text-align: center;
   font-family: 'Lora', serif;
 }
-#header1-r .mbr-section-title {
-  font-size: 46px;
+#header5-14 .mbr-section-title {
+  color: #2969b0;
+  text-align: right;
 }
-#header1-4 .mbr-section-title {
-  font-size: 46px;
+#header5-14 .mbr-section-lead {
+  color: #9c9a9a;
+  text-align: right;
+}
+#header5-15 .mbr-section-title {
+  color: #2969b0;
+  text-align: center;
+}
+#header5-15 .mbr-section-lead {
+  color: #ffffff;
+  text-align: center;
 }
 
 
@@ -664,13 +674,20 @@ h6,
 #header5-g .mbr-section-lead {
   color: #fac51c;
 }
-#msg-box5-u H3 {
-  text-align: center;
-}
-#msg-box5-u P {
+#header5-w .mbr-section-title {
+  color: #fac51c;
   text-align: right;
 }
-#msg-box5-v H3 {
+#header5-w .mbr-section-lead {
+  color: #9c9a9a;
+  text-align: right;
+}
+#header5-12 .mbr-section-title {
+  color: #fac51c;
+  text-align: center;
+}
+#header5-12 .mbr-section-lead {
+  color: #ffffff;
   text-align: center;
 }
 
@@ -746,12 +763,21 @@ h6,
   color: #41a85f;
 }
 #header5-i .mbr-section-lead {
+  color: #ffffff;
+}
+#header5-z .mbr-section-title {
+  color: #41a85f;
+  text-align: right;
+}
+#header5-z .mbr-section-lead {
   color: #000000;
+  text-align: right;
 }
-#header1-a .mbr-section-title {
-  font-size: 46px;
+#header5-10 .mbr-section-title {
   color: #41a85f;
+  text-align: center;
 }
-#header1-a .mbr-section-lead {
-  color: #41a85f;
+#header5-10 .mbr-section-lead {
+  color: #ffffff;
+  text-align: center;
 }
