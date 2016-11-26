@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "herpaberget.html",
+    "currentPage": "mernorsk.html",
     "versionFirst": "3.8.4",
-    "uniqCompNum": 42,
+    "uniqCompNum": 54,
     "versionPublish": "3.9.2",
     "name": "Nettressurser",
     "theme": {
@@ -24,7 +24,7 @@
       }
     },
     "publishType": "github",
-    "publishPath": "file:///E:/SKOLE/SPR%C3%85KLAB/nettressursoppgaver/v.3.2",
+    "publishPath": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
     "path": "file:///F:/SKOLE/nettressursoppgaver",
@@ -153,7 +153,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2016 Alfaskolen."
         },
         {
           "_tags": [
@@ -271,7 +271,7 @@
           },
           "title": "PÅ VEI - LYTTEOPPGAVER I ARBEIDSBOK",
           "text": "Velg kapittel og lykke til!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">11</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">12</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">13</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">14</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">15</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">16</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"audio/pv/pavei_kap01.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"audio/pv/pavei_kap02.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"audio/pv/pavei_kap03.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"audio/pv/pavei_kap04.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"audio/pv/pavei_kap05.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"audio/pv/pavei_kap06.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"audio/pv/pavei_kap07.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"audio/pv/pavei_kap08.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"audio/pv/pavei_kap09.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">9</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"audio/pv/pavei_kap10.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">10</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"audio/pv/pavei_kap11.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"audio/pv/pavei_kap12.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"audio/pv/pavei_kap13.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">13</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"audio/pv/pavei_kap14.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">14</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"audio/pv/pavei_kap15.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">15</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"audio/pv/pavei_kap16.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">16</a>"
         },
         {
           "_inherit": "header1",
@@ -311,7 +311,7 @@
           },
           "title": "FASIT TIL LYTTEOPPGAVER I ARBEIDSBOK",
           "text": "Her kan du sjekke svarene dine!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">11</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">12</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">13</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">14</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">15</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">16</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"downloads/pavei-fasit/kapittel01.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"downloads/pavei-fasit/kapittel02.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"downloads/pavei-fasit/kapittel03.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"downloads/pavei-fasit/kapittel04.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"downloads/pavei-fasit/kapittel05.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"downloads/pavei-fasit/kapittel06.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"downloads/pavei-fasit/kapittel07.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"downloads/pavei-fasit/kapittel08.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"downloads/pavei-fasit/kapittel09.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">9</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"downloads/pavei-fasit/kapittel10.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">10</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"downloads/pavei-fasit/kapittel11.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"downloads/pavei-fasit/kapittel12.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"downloads/pavei-fasit/kapittel13.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">13</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"downloads/pavei-fasit/kapittel14.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">14</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"downloads/pavei-fasit/kapittel15.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">15</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"downloads/pavei-fasit/kapittel16.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">16</a>"
         }
       ]
     },
@@ -576,9 +576,9 @@
                 "showTitle": true,
                 "title": "Nivå B1",
                 "showText": true,
-                "text": "Du kan repetere norsk grammatikk ved hjelp av \"Tekstlab 3\".<br>Hvis dette ble for lett, så prøv \"Norsk Grammatikk\".<br>Du kan også klikke på \"Jobb i sikte\". Der lærer du nye yrkesrelaterte&nbsp;ord.",
+                "text": "Du kan repetere norsk grammatikk ved hjelp av \"Tekstlab 3\".<br>Hvis dette ble for lett, så prøv \"Norsk Grammatikk\".<br>Du kan også klikke på \"Jobb i sikte\". Der lærer du nye yrkesrelaterte&nbsp;ord.<br>\"Mer norsk\" hjelper deg med samfunnskunnskap og gramatikk.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://jobbisikte-hefter.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOBB I SIKTE<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://tekstlab.uio.no/igin/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;TEKSTLAB 3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://norskgrammatikk.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NORSK GRAMMATIKK</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://jobbisikte-hefter.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOBB I SIKTE<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mernorsk.portfolio.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MER NORSK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://tekstlab.uio.no/igin/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;TEKSTLAB 3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://norskgrammatikk.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NORSK GRAMMATIKK</a> "
               },
               {
                 "active": false,
@@ -744,7 +744,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2016 Alfaskolen."
         }
       ]
     },
@@ -767,8 +767,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#efefef",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-family": "'Merriweather', serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
               "font-size": "0.9rem"
@@ -818,9 +818,9 @@
             "bgColor": "#b8312f",
             "fontSize": "0.9",
             "fontName": {
-              "name": "Merriweather",
-              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "css": "'Merriweather', serif"
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
             },
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor",
@@ -834,7 +834,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/drawing-416x128-23.png",
+              "src": "@PROJECT_PATH@/assets/images/drawing-416x128-45-416x128-53.png",
               "height": 128,
               "alt": "Alfaskolen",
               "link": "index.html",
@@ -868,7 +868,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2016 Alfaskolen."
         },
         {
           "_inherit": "header1",
@@ -889,7 +889,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/8230120-2000x1500-15-1400x1050-99-2000x1500-18.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/8230120-2000x1500-15-2000x1500-30-2000x1500-95.jpg",
             "bgColor": "#cccccc",
             "bgColorRadio": false,
             "bgVideo": {
@@ -905,8 +905,8 @@
             "showButtons": true
           },
           "title": "<br><br><br>Nivå B1",
-          "text": "Du kan repetere norsk grammatikk ved hjelp av \"Tekstlab 3\".<br>Hvis dette ble for lett, så prøv \"Norsk Grammatikk\".<br>Du kan også klikke på \"Jobb i sikte\". Der lærer du nye yrkesrelaterte ord.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://jobbisikte-hefter.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOBB I SIKTE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://tekstlab.uio.no/igin/?niva=3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"> TEKSTLAB 3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://norskgrammatikk.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"> NORSK GRAMMATIKK</a>"
+          "text": "Du kan repetere norsk grammatikk ved hjelp av \"Tekstlab 3\".<br>Hvis dette ble for lett, så prøv \"Norsk Grammatikk\".<br>Du kan også klikke på \"Jobb i sikte\". Der lærer du nye yrkesrelaterte ord.<br>\"Mer norsk\" hjelper deg med samfunnskunnskap og gramatikk.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://jobbisikte-hefter.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOBB I SIKTE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mernorsk.portfolio.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MER NORSK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://tekstlab.uio.no/igin/?niva=3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"> TEKSTLAB 3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://norskgrammatikk.cappelendamm.no/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"> NORSK GRAMMATIKK</a>"
         },
         {
           "_inherit": "header1",
@@ -946,7 +946,7 @@
           },
           "title": "STEIN PÅ STEIN LYTTEOPPGAVER I ARBEIDSBOK",
           "text": "Velg kapittel og lykke til!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">11</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">12</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">13</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">14</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"audio/sps/sps_kap01.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"audio/sps/sps_kap02.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"audio/sps/sps_kap03.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"audio/sps/sps_kap04.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"audio/sps/sps_kap05.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"audio/sps/sps_kap06.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"audio/sps/sps_kap07.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"audio/sps/sps_kap08.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"audio/sps/sps_kap09.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">9</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"audio/sps/sps_kap10.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">10</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"audio/sps/sps_kap11.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"audio/sps/sps_kap12.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"audio/sps/sps_kap13.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">13</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"audio/sps/sps_kap14.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">14</a> "
         },
         {
           "_inherit": "header1",
@@ -969,7 +969,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/8230120-2000x1500-15-1400x1050-99-2000x1500-18-2000x1500-4.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/8230120-2000x1500-15-2000x1500-30-2000x1500-93.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -986,7 +986,7 @@
           },
           "title": "FASIT TIL LYTTEOPPGAVER I ARBEIDSBOK",
           "text": "Her kan du sjekke svarene dine!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">11</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">12</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">13</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">14</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"downloads/sps-fasit/kap01.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"downloads/sps-fasit/kap02.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"downloads/sps-fasit/kap03.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"downloads/sps-fasit/kap04.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"downloads/sps-fasit/kap05.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"downloads/sps-fasit/kap06.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"downloads/sps-fasit/kap07.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"downloads/sps-fasit/kap08.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"downloads/sps-fasit/kap10.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">10</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"downloads/sps-fasit/kap11.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"downloads/sps-fasit/kap12.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"downloads/sps-fasit/kap13.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">13</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"downloads/sps-fasit/kap14.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">14</a>"
         }
       ]
     },
@@ -1009,8 +1009,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#efefef",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-family": "'Merriweather', serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
               "font-size": "0.9rem"
@@ -1060,9 +1060,9 @@
             "bgColor": "#b8312f",
             "fontSize": "0.9",
             "fontName": {
-              "name": "Merriweather",
-              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "css": "'Merriweather', serif"
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
             },
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor",
@@ -1110,7 +1110,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2016 Alfaskolen."
         },
         {
           "_inherit": "header1",
@@ -1188,7 +1188,7 @@
           },
           "title": "HER PÅ BERGET LYTTEOPPGAVER I ARBEIDSBOK",
           "text": "Velg kapittel og lykke til!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">11</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">12</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">13</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">14</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap01.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap02.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap03.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap04.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap05.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap06.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap07.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap08.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap09.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">9</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap10.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">10</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap11.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap12.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap13.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">13</a>  "
         },
         {
           "_inherit": "header1",
@@ -1228,7 +1228,850 @@
           },
           "title": "FASIT TIL LYTTEOPPGAVER I ARBEIDSBOK",
           "text": "Her kan du sjekke svarene dine!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">11</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">12</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">13</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">14</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"downloads/hpb-fasit/kap01.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"downloads/hpb-fasit/kap02.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"downloads/hpb-fasit/kap03.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"downloads/hpb-fasit/kap04.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"downloads/hpb-fasit/kap05.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"downloads/hpb-fasit/kap06.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"downloads/hpb-fasit/kap07.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"downloads/hpb-fasit/kap08.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"downloads/hpb-fasit/kap09.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">9</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"downloads/hpb-fasit/kap10.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">10</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"downloads/hpb-fasit/kap11.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"downloads/hpb-fasit/kap12.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"downloads/hpb-fasit/kap13.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">13</a>  "
+        }
+      ]
+    },
+    "mernorsk.html": {
+      "settings": {
+        "title": "Mer Norsk!"
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#2969b0"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-1a",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/dscf4110-2000x1500-19.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "MER NORSK!<br>",
+          "text": "Her finner du bok, arbeidsbok og øvinger i lytteforståelse!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://capellamedia.ipapercms.dk/fagbokforlaget/fagbokforlagetu/mernorsktekstbokblaibok/?page=1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEKSTBOK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"mernorsk.html#header5-19\" data-toolbar=\"-mbrBtnMove\">ARBEIDSBOK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"mernorsk.html#header1-18\" data-toolbar=\"-mbrBtnMove\">LYTTEFORSTÅELSE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"mernorsk.html#features7-1b\" data-toolbar=\"-mbrBtnMove\">LYDBOK TIL TEKSTBOK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"mernorsk.html#header3-1e\" data-toolbar=\"-mbrBtnMove\">LYDBOK TIL LYTTEFORSTÅELSE</a>        "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000"
+            },
+            "H3": {
+              "color": "#2969b0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "LYDBOK TIL TEKSTBOK",
+          "meta": "Velg leksjon!"
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#3d8eb9"
+            },
+            ".iconbox": {
+              "background-color": "#2969b0",
+              "border-color": "#2969b0"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-1b",
+          "_params": {
+            "iconsBgColor": "#2969b0",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "newWindow": true
+            }
+          },
+          "title1": "Leksjon 1",
+          "subtitle1": "Om vennskap.",
+          "caption1": "Om vennskap.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": true
+            }
+          },
+          "title2": "Leksjon 2",
+          "subtitle2": "Om familien.",
+          "caption2": "Om familien.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": true
+            }
+          },
+          "title3": "Leksjon 3",
+          "subtitle3": "Om bolig og bomiljø.",
+          "caption3": "Om bolig og bomiljø.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": true
+            }
+          },
+          "title4": "Leksjon 4",
+          "subtitle4": "Om likestilling.",
+          "caption4": "Om likestilling.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": true
+            }
+          },
+          "title5": "Leksjon 5",
+          "subtitle5": "Om fellesskap.",
+          "caption5": "Om fellesskap.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": true
+            }
+          },
+          "title6": "Leksjon 6",
+          "subtitle6": "Om velferdsstaten.",
+          "caption6": "Om velferdsstaten.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#3d8eb9"
+            },
+            ".iconbox": {
+              "background-color": "#2969b0",
+              "border-color": "#2969b0"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-1c",
+          "_params": {
+            "iconsBgColor": "#2969b0",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "5",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title1": "Leksjon 7",
+          "subtitle1": "Om utdanning.",
+          "caption1": "Om utdanning.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title2": "Leksjon 8",
+          "subtitle2": "Om arbeid.",
+          "caption2": "Om arbeid.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title3": "Leksjon 9",
+          "subtitle3": "Om medier og massekommunikasjon.",
+          "caption3": "Om medier og massekommunikasjon.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title4": "Leksjon 10",
+          "subtitle4": "Om Norge før og nå.",
+          "caption4": "Om Norge før og nå.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title5": "Leksjon 11",
+          "subtitle5": "Om kulturelle uttrykk.",
+          "caption5": "Om kulturelle uttrykk.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#8f2625"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#ac2e2c!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#b8312f"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#b8312f!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-16",
+          "_params": {
+            "bgColor": "#b8312f",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#efefef",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/drawing-416x128-45.png",
+              "height": 128,
+              "alt": "Alfaskolen",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "facebook",
+              "family": "et-line",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">OPPGAVESAMLING</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.klartale.no/\" aria-expanded=\"false\" target=\"_blank\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.klartale.no/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"etl-icon icon-newspaper mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/alfaskolen/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/Alfaskolen.Oslo/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.alfaskolen.no/en/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"etl-icon icon-global mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-magnifying-glass mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 239, 239);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://clu.uni.no/test/bildetema-html5/bildetema.html?version=norwegian&amp;language_selector=simple&amp;languages=eng,nno,nob&amp;language=nob&amp;page=index&amp;title=Bildetema%20-%20bokm%C3%A5l-nynorsk\" target=\"_blank\">BILDEORDBOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://decentius.hit.uib.no/lexin.html?ui-lang=nbo\" target=\"_blank\">NORSK ORDBOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ordbok.uib.no/perl/ordbok.cgi?OPP=+&amp;ant_bokmaal=5&amp;ant_nynorsk=5&amp;bokmaal=+&amp;ordbok=bokmaal\" target=\"_blank\">BOKMÅLSORDBOK</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://www.klartale.no/\" aria-expanded=\"true\" target=\"_blank\" data-toggle=\"dropdown-submenu\">KURSBØKER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://pavei-oppgaver.cappelendamm.no/\" target=\"_blank\">PÅ VEI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://steinpastein-oppgaver.cappelendamm.no/\" target=\"_blank\">STEIN PÅ STEIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://herpaberget-oppgaver.cappelendamm.no/\" target=\"_blank\">HER PÅ BERGET</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://norsklab.cappelendamm.no/\" target=\"_blank\">NORSKLAB</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-17",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/-8230141-2000x1500-38.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Alfaskolen."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#2969b0"
+            },
+            ".mbr-section-lead": {
+              "color": "#2969b0"
+            }
+          },
+          "_anchor": "header1-18",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dscf4110-2000x1500-30.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "title": "ØVINGER I LYTTEFORSTÅELSE",
+          "text": "Her finner du bok, arbeidsbok og lytteøvinger!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://capellamedia.ipapercms.dk/fagbokforlaget/fagbokforlagetu/mernorsktekstbokblaibok/?page=1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEKSJON 1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"mernorsk.html#header5-19\" data-toolbar=\"-mbrBtnMove\">LEKSJON 2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"mernorsk.html#header5-19\" data-toolbar=\"-mbrBtnMove\">LEKSJON 3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"mernorsk.html#header5-19\" data-toolbar=\"-mbrBtnMove\">LEKSJON 4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"mernorsk.html#header5-19\" data-toolbar=\"-mbrBtnMove\">LEKSJON 5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"mernorsk.html#header5-19\" data-toolbar=\"-mbrBtnMove\">LEKSJON 6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"mernorsk.html#header5-19\" data-toolbar=\"-mbrBtnMove\">LEKSJON 7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"mernorsk.html#header5-19\" data-toolbar=\"-mbrBtnMove\">LEKSJON 8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"mernorsk.html#header5-19\" data-toolbar=\"-mbrBtnMove\">LEKSJON 9</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"mernorsk.html#header5-19\" data-toolbar=\"-mbrBtnMove\">LEKSJON 10</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"mernorsk.html#header5-19\" data-toolbar=\"-mbrBtnMove\">LEKSJON 11</a>  "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000"
+            },
+            "H3": {
+              "color": "#2969b0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "LYDBOK TIL ØVINGER I LYTTEFORSTÅELSE",
+          "meta": "Velg leksjon!"
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#3d8eb9"
+            },
+            ".iconbox": {
+              "background-color": "#2969b0",
+              "border-color": "#2969b0"
+            },
+            "P": {
+              "color": "#2969b0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-1f",
+          "_params": {
+            "iconsBgColor": "#2969b0",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "title1": "Leksjon 1",
+          "subtitle1": "Om vennskap.",
+          "caption1": "Om vennskap.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "title2": "Leksjon 2",
+          "subtitle2": "Om familien.",
+          "caption2": "Om familien.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "title3": "Leksjon 3",
+          "subtitle3": "Om bolig og bomiljø.",
+          "caption3": "Om bolig og bomiljø.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "title4": "Leksjon 4",
+          "subtitle4": "Om likestilling.",
+          "caption4": "Om likestilling.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "title5": "Leksjon 5",
+          "subtitle5": "Om fellesskap.",
+          "caption5": "Om fellesskap.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "title6": "Leksjon 6",
+          "subtitle6": "Om velferdsstaten.",
+          "caption6": "Om velferdsstaten.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#3d8eb9"
+            },
+            ".iconbox": {
+              "background-color": "#2969b0",
+              "border-color": "#2969b0"
+            },
+            "P": {
+              "color": "#3d8eb9"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-1h",
+          "_params": {
+            "iconsBgColor": "#2969b0",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "5",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "title1": "Leksjon 7",
+          "subtitle1": "Om utdanning.",
+          "caption1": "Om utdanning.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "title2": "Leksjon 8",
+          "subtitle2": "Om arbeid.",
+          "caption2": "Om arbeid.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "title3": "Leksjon 9",
+          "subtitle3": "Om medier og massekommunikasjon.",
+          "caption3": "Om medier og massekommunikasjon.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "title4": "Leksjon 10",
+          "subtitle4": "Om Norge før og nå.",
+          "caption4": "Om Norge før og nå.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "title5": "Leksjon 11",
+          "subtitle5": "Om kulturelle uttrykk.",
+          "caption5": "Om kulturelle uttrykk.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#2969b0"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-19",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/dscf4110-2000x1500-45.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "title": "ARBEIDSBOK",
+          "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEKSJON 1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEKSJON 2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEKSJON 3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEKSJON 4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEKSJON 5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEKSJON 6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEKSJON 7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEKSJON 8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEKSJON 9</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEKSJON 10</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEKSJON 11</a>"
         }
       ]
     }
