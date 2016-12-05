@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 
 
 
@@ -612,7 +611,7 @@ h6,
 #menu-5 .link,
 #menu-5 .dropdown-item {
   color: #efefef;
-  font-family: 'Merriweather', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-5 .link {
   font-size: 0.9rem;
@@ -703,7 +702,7 @@ h6,
 #menu-8 .link,
 #menu-8 .dropdown-item {
   color: #efefef;
-  font-family: 'Merriweather', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-8 .link {
   font-size: 0.9rem;
@@ -780,4 +779,265 @@ h6,
 #header5-10 .mbr-section-lead {
   color: #ffffff;
   text-align: center;
+}
+
+#header5-1a .mbr-section-title {
+  color: #2969b0;
+}
+#header5-1a .mbr-section-lead {
+  color: #000000;
+}
+#header3-1d .mbr-section-title,
+#header3-1d .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1d SMALL {
+  color: #000000;
+}
+#header3-1d H3 {
+  color: #2969b0;
+}
+#features7-1b .card-subtitle {
+  color: #3d8eb9;
+}
+#features7-1b .iconbox {
+  background-color: #2969b0;
+  border-color: #2969b0;
+}
+#features7-1c .card-subtitle {
+  color: #3d8eb9;
+}
+#features7-1c .iconbox {
+  background-color: #2969b0;
+  border-color: #2969b0;
+}
+#features7-1c P {
+  color: #000000;
+}
+#menu-16 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-16 .navbar-caption {
+  color: #ffffff;
+}
+#menu-16 .navbar-toggler {
+  color: #efefef;
+}
+#menu-16 .link,
+#menu-16 .dropdown-item {
+  color: #efefef;
+  font-family: 'Montserrat', sans-serif;
+}
+#menu-16 .link {
+  font-size: 0.9rem;
+}
+#menu-16 .dropdown-item,
+#menu-16 .nav-dropdown-sm .link {
+  font-size: 0.975rem;
+}
+#menu-16 .link:hover,
+#menu-16 .dropdown-item:hover,
+#menu-16 .link:focus,
+#menu-16 .dropdown-item:focus {
+  color: #b8312f;
+}
+#menu-16 .link[aria-expanded="true"],
+#menu-16 .dropdown-menu {
+  background: #8f2625;
+}
+#menu-16 .nav-dropdown-sm .link:focus,
+#menu-16 .nav-dropdown-sm .link:hover,
+#menu-16 .nav-dropdown-sm .dropdown-item:focus,
+#menu-16 .nav-dropdown-sm .dropdown-item:hover {
+  background: #ac2e2c!important;
+}
+#menu-16 .navbar,
+#menu-16 .nav-dropdown-sm,
+#menu-16 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-16 .nav-dropdown-sm .dropdown-menu {
+  background: #b8312f;
+}
+#menu-16 .bg-color.transparent .link {
+  color: #efefef;
+  transition: none;
+}
+#menu-16 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-16 .bg-color.transparent.opened .link:hover,
+#menu-16 .bg-color.transparent.opened .link:focus {
+  color: #b8312f;
+}
+#menu-16 .link[aria-expanded="true"],
+#menu-16 .dropdown-item[aria-expanded="true"] {
+  color: #b8312f!important;
+}
+#menu-16.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-16 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-16 .close-icon::before,
+#menu-16 .close-icon::after {
+  background-color: #efefef;
+}
+#header1-18 .mbr-section-title {
+  color: #2969b0;
+}
+#header1-18 .mbr-section-lead {
+  color: #2969b0;
+}
+#header3-1e .mbr-section-title,
+#header3-1e .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1e SMALL {
+  color: #000000;
+}
+#header3-1e H3 {
+  color: #2969b0;
+}
+#features4-1f .card-subtitle {
+  color: #3d8eb9;
+}
+#features4-1f .iconbox {
+  background-color: #2969b0;
+  border-color: #2969b0;
+}
+#features4-1f P {
+  color: #2969b0;
+}
+#features4-1h .card-subtitle {
+  color: #3d8eb9;
+}
+#features4-1h .iconbox {
+  background-color: #2969b0;
+  border-color: #2969b0;
+}
+#features4-1h P {
+  color: #3d8eb9;
+}
+#header5-19 .mbr-section-title {
+  color: #2969b0;
+}
+#header5-19 .mbr-section-lead {
+  color: #9c9a9a;
+}
+
+#header5-1k .mbr-section-title {
+  color: #2969b0;
+}
+#header5-1k .mbr-section-lead {
+  color: #ffffff;
+}
+#menu-1i .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1i .navbar-caption {
+  color: #ffffff;
+}
+#menu-1i .navbar-toggler {
+  color: #efefef;
+}
+#menu-1i .link,
+#menu-1i .dropdown-item {
+  color: #efefef;
+  font-family: 'Montserrat', sans-serif;
+}
+#menu-1i .link {
+  font-size: 0.9rem;
+}
+#menu-1i .dropdown-item,
+#menu-1i .nav-dropdown-sm .link {
+  font-size: 0.975rem;
+}
+#menu-1i .link:hover,
+#menu-1i .dropdown-item:hover,
+#menu-1i .link:focus,
+#menu-1i .dropdown-item:focus {
+  color: #b8312f;
+}
+#menu-1i .link[aria-expanded="true"],
+#menu-1i .dropdown-menu {
+  background: #8f2625;
+}
+#menu-1i .nav-dropdown-sm .link:focus,
+#menu-1i .nav-dropdown-sm .link:hover,
+#menu-1i .nav-dropdown-sm .dropdown-item:focus,
+#menu-1i .nav-dropdown-sm .dropdown-item:hover {
+  background: #ac2e2c!important;
+}
+#menu-1i .navbar,
+#menu-1i .nav-dropdown-sm,
+#menu-1i .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1i .nav-dropdown-sm .dropdown-menu {
+  background: #b8312f;
+}
+#menu-1i .bg-color.transparent .link {
+  color: #efefef;
+  transition: none;
+}
+#menu-1i .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1i .bg-color.transparent.opened .link:hover,
+#menu-1i .bg-color.transparent.opened .link:focus {
+  color: #b8312f;
+}
+#menu-1i .link[aria-expanded="true"],
+#menu-1i .dropdown-item[aria-expanded="true"] {
+  color: #b8312f!important;
+}
+#menu-1i.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-1i .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-1i .close-icon::before,
+#menu-1i .close-icon::after {
+  background-color: #efefef;
+}
+#header3-1r .mbr-section-title,
+#header3-1r .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1r SMALL {
+  color: #2969b0;
+}
+#features7-1n .card-subtitle {
+  color: #2969b0;
+}
+#features7-1n .iconbox {
+  background-color: #2969b0;
+  border-color: #2969b0;
+}
+#features7-1o .card-subtitle {
+  color: #2969b0;
+}
+#features7-1o .iconbox {
+  background-color: #2969b0;
+  border-color: #2969b0;
+}
+#features7-1p .card-subtitle {
+  color: #2969b0;
+}
+#features7-1p .iconbox {
+  background-color: #2969b0;
+  border-color: #2969b0;
+}
+#features7-1s .card-subtitle {
+  color: #2969b0;
+}
+#features7-1s .iconbox {
+  background-color: #2969b0;
+  border-color: #2969b0;
+}
+#header3-1t .mbr-section-title,
+#header3-1t .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1t SMALL {
+  color: #2969b0;
 }
